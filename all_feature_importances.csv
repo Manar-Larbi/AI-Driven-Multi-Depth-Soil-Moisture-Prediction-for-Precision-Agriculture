@@ -1,0 +1,271 @@
+Target,Feature,Source Depth,Importance,Model
+moisture 10cm ,moisture_20cm,moisture 20,0.8298677258018095,rf1
+moisture 10cm ,temperature_c,moisture 20,0.06612623405148958,rf1
+moisture 10cm ,humidity_percent,moisture 20,0.04043016862694251,rf1
+moisture 10cm ,wind_speed_max2,moisture 20,0.017303306939383083,rf1
+moisture 10cm ,radiation,moisture 20,0.017159412256147547,rf1
+moisture 10cm ,vpd,moisture 20,0.009709104354535689,rf1
+moisture 10cm ,wind_speed,moisture 20,0.009415895569974509,rf1
+moisture 10cm ,leaf_wet,moisture 20,0.007465891487176913,rf1
+moisture 10cm ,amnt_precp,moisture 20,0.002522260912540715,rf1
+moisture 10cm ,moisture_30cm,moisture 30,0.6648635050479635,rf2
+moisture 10cm ,temperature_c,moisture 30,0.12355882905006019,rf2
+moisture 10cm ,humidity_percent,moisture 30,0.07979131774203295,rf2
+moisture 10cm ,wind_speed_max2,moisture 30,0.03611043854387097,rf2
+moisture 10cm ,radiation,moisture 30,0.027667839402245733,rf2
+moisture 10cm ,leaf_wet,moisture 30,0.02490365522112667,rf2
+moisture 10cm ,vpd,moisture 30,0.01898128959107482,rf2
+moisture 10cm ,wind_speed,moisture 30,0.018247183513251504,rf2
+moisture 10cm ,amnt_precp,moisture 30,0.005875941888373722,rf2
+moisture 10cm ,moisture_40cm,moisture 40,0.6428033592427378,rf3
+moisture 10cm ,temperature_c,moisture 40,0.13711564913178503,rf3
+moisture 10cm ,humidity_percent,moisture 40,0.07024497409352688,rf3
+moisture 10cm ,wind_speed_max2,moisture 40,0.038147052059066384,rf3
+moisture 10cm ,wind_speed,moisture 40,0.03634567794143968,rf3
+moisture 10cm ,leaf_wet,moisture 40,0.032144089606517975,rf3
+moisture 10cm ,radiation,moisture 40,0.025343901391255218,rf3
+moisture 10cm ,vpd,moisture 40,0.014731212633377075,rf3
+moisture 10cm ,amnt_precp,moisture 40,0.00312408390029408,rf3
+moisture 10cm ,moisture_50cm,moisture 50,0.5282634250532102,rf4
+moisture 10cm ,temperature_c,moisture 50,0.1732787955139219,rf4
+moisture 10cm ,humidity_percent,moisture 50,0.10781064110096952,rf4
+moisture 10cm ,wind_speed_max2,moisture 50,0.05029870144018521,rf4
+moisture 10cm ,radiation,moisture 50,0.04158880469962096,rf4
+moisture 10cm ,leaf_wet,moisture 50,0.03760590544179876,rf4
+moisture 10cm ,wind_speed,moisture 50,0.03119128120484402,rf4
+moisture 10cm ,vpd,moisture 50,0.02482346500534201,rf4
+moisture 10cm ,amnt_precp,moisture 50,0.005138980540107371,rf4
+moisture 10cm ,moisture_60cm,moisture 60,0.5672359316693695,rf5
+moisture 10cm ,temperature_c,moisture 60,0.18474488406686707,rf5
+moisture 10cm ,humidity_percent,moisture 60,0.08812923026549482,rf5
+moisture 10cm ,radiation,moisture 60,0.03939580903871962,rf5
+moisture 10cm ,wind_speed_max2,moisture 60,0.03937829377419123,rf5
+moisture 10cm ,leaf_wet,moisture 60,0.02835322523941404,rf5
+moisture 10cm ,vpd,moisture 60,0.023696249289143035,rf5
+moisture 10cm ,wind_speed,moisture 60,0.022708329073409222,rf5
+moisture 10cm ,amnt_precp,moisture 60,0.006358047583391518,rf5
+moisture 20cm ,moisture_10cm,moisture 10,0.8619611821561322,rf6
+moisture 20cm ,temperature_c,moisture 10,0.05381119498872958,rf6
+moisture 20cm ,humidity_percent,moisture 10,0.028084473511984002,rf6
+moisture 20cm ,radiation,moisture 10,0.014077090105378262,rf6
+moisture 20cm ,wind_speed_max2,moisture 10,0.013220244392262525,rf6
+moisture 20cm ,wind_speed,moisture 10,0.011123666953040692,rf6
+moisture 20cm ,vpd,moisture 10,0.008189433121080763,rf6
+moisture 20cm ,leaf_wet,moisture 10,0.007734302539560926,rf6
+moisture 20cm ,amnt_precp,moisture 10,0.0017984122318311954,rf6
+moisture 20cm ,moisture_30cm,moisture 30,0.8349643131798311,rf7
+moisture 20cm ,temperature_c,moisture 30,0.0729647685973248,rf7
+moisture 20cm ,humidity_percent,moisture 30,0.03593210700920829,rf7
+moisture 20cm ,wind_speed,moisture 30,0.013611506477027805,rf7
+moisture 20cm ,wind_speed_max2,moisture 30,0.01288434636491311,rf7
+moisture 20cm ,leaf_wet,moisture 30,0.010367139131752998,rf7
+moisture 20cm ,radiation,moisture 30,0.00955970687579602,rf7
+moisture 20cm ,vpd,moisture 30,0.008588743999465433,rf7
+moisture 20cm ,amnt_precp,moisture 30,0.001127368364680482,rf7
+moisture 20cm ,moisture_40cm,moisture 40,0.801146573084298,rf8
+moisture 20cm ,temperature_c,moisture 40,0.07837610665394255,rf8
+moisture 20cm ,humidity_percent,moisture 40,0.046055585822064,rf8
+moisture 20cm ,wind_speed_max2,moisture 40,0.022007790574208368,rf8
+moisture 20cm ,radiation,moisture 40,0.01791874560620911,rf8
+moisture 20cm ,wind_speed,moisture 40,0.017402026995842274,rf8
+moisture 20cm ,leaf_wet,moisture 40,0.008580334675750466,rf8
+moisture 20cm ,vpd,moisture 40,0.007490979753596588,rf8
+moisture 20cm ,amnt_precp,moisture 40,0.001021856834088578,rf8
+moisture 20cm ,moisture_50cm,moisture 50,0.7110232680550863,rf9
+moisture 20cm ,temperature_c,moisture 50,0.1288862298573576,rf9
+moisture 20cm ,humidity_percent,moisture 50,0.0603142241178609,rf9
+moisture 20cm ,wind_speed_max2,moisture 50,0.029908843994083285,rf9
+moisture 20cm ,leaf_wet,moisture 50,0.020887772924329442,rf9
+moisture 20cm ,radiation,moisture 50,0.019575723489177757,rf9
+moisture 20cm ,wind_speed,moisture 50,0.01889322398462547,rf9
+moisture 20cm ,vpd,moisture 50,0.009435224512279213,rf9
+moisture 20cm ,amnt_precp,moisture 50,0.0010754890652001495,rf9
+moisture 20cm ,moisture_60cm,moisture 60,0.6914648175441513,rf10
+moisture 20cm ,temperature_c,moisture 60,0.14030037106537158,rf10
+moisture 20cm ,humidity_percent,moisture 60,0.0629215820082555,rf10
+moisture 20cm ,wind_speed_max2,moisture 60,0.02500411460212051,rf10
+moisture 20cm ,leaf_wet,moisture 60,0.023949231490202366,rf10
+moisture 20cm ,radiation,moisture 60,0.01965634241535211,rf10
+moisture 20cm ,wind_speed,moisture 60,0.01821949415943478,rf10
+moisture 20cm ,vpd,moisture 60,0.01499896541883752,rf10
+moisture 20cm ,amnt_precp,moisture 60,0.0034850812962743554,rf10
+moisture 30cm,moisture_10cm,moisture 10,0.7503770461777886,rf11
+moisture 30cm,temperature_c,moisture 10,0.0999980019474552,rf11
+moisture 30cm,humidity_percent,moisture 10,0.0516823432449218,rf11
+moisture 30cm,wind_speed_max2,moisture 10,0.03174858679491777,rf11
+moisture 30cm,radiation,moisture 10,0.019041017867768396,rf11
+moisture 30cm,wind_speed,moisture 10,0.018244982257583024,rf11
+moisture 30cm,vpd,moisture 10,0.016520142418457114,rf11
+moisture 30cm,leaf_wet,moisture 10,0.00852173732641539,rf11
+moisture 30cm,amnt_precp,moisture 10,0.0038661419646926947,rf11
+moisture 30cm,moisture_20cm,moisture 20,0.8597406768647983,rf12
+moisture 30cm,temperature_c,moisture 20,0.061094571597771825,rf12
+moisture 30cm,humidity_percent,moisture 20,0.02865149962879691,rf12
+moisture 30cm,wind_speed_max2,moisture 20,0.01568087861607405,rf12
+moisture 30cm,wind_speed,moisture 20,0.011284816834065112,rf12
+moisture 30cm,leaf_wet,moisture 20,0.008635289791792308,rf12
+moisture 30cm,vpd,moisture 20,0.007119064677112792,rf12
+moisture 30cm,radiation,moisture 20,0.00678809036006289,rf12
+moisture 30cm,amnt_precp,moisture 20,0.0010051116295259263,rf12
+moisture 30cm,moisture_40cm,moisture 40,0.947709753214005,rf13
+moisture 30cm,temperature_c,moisture 40,0.02029723262053801,rf13
+moisture 30cm,humidity_percent,moisture 40,0.012095301310024315,rf13
+moisture 30cm,wind_speed_max2,moisture 40,0.00569247784521066,rf13
+moisture 30cm,radiation,moisture 40,0.005227951663792646,rf13
+moisture 30cm,wind_speed,moisture 40,0.0038791205646992195,rf13
+moisture 30cm,vpd,moisture 40,0.0026390589527264747,rf13
+moisture 30cm,leaf_wet,moisture 40,0.0016326603762508037,rf13
+moisture 30cm,amnt_precp,moisture 40,0.0008264434527530311,rf13
+moisture 30cm,moisture_50cm,moisture 50,0.8925991444271387,rf14
+moisture 30cm,temperature_c,moisture 50,0.03971929860267484,rf14
+moisture 30cm,humidity_percent,moisture 50,0.024734838049771956,rf14
+moisture 30cm,wind_speed_max2,moisture 50,0.012308306835774697,rf14
+moisture 30cm,leaf_wet,moisture 50,0.009074252630801572,rf14
+moisture 30cm,radiation,moisture 50,0.008461924225024054,rf14
+moisture 30cm,wind_speed,moisture 50,0.006464583802307342,rf14
+moisture 30cm,vpd,moisture 50,0.00565661268830264,rf14
+moisture 30cm,amnt_precp,moisture 50,0.0009810387382040073,rf14
+moisture 30cm,moisture_60cm,moisture 60,0.7500266172914752,rf15
+moisture 30cm,temperature_c,moisture 60,0.13168037618615755,rf15
+moisture 30cm,humidity_percent,moisture 60,0.040558789568380556,rf15
+moisture 30cm,wind_speed_max2,moisture 60,0.016789063276390084,rf15
+moisture 30cm,vpd,moisture 60,0.016585136722471815,rf15
+moisture 30cm,radiation,moisture 60,0.01432439767183963,rf15
+moisture 30cm,leaf_wet,moisture 60,0.01427084524884086,rf15
+moisture 30cm,wind_speed,moisture 60,0.011854608249431376,rf15
+moisture 30cm,amnt_precp,moisture 60,0.0039101657850129255,rf15
+moisture 40cm,moisture_10cm,moisture 10,0.6035846713081412,rf16
+moisture 40cm,temperature_c,moisture 10,0.17010418609138123,rf16
+moisture 40cm,humidity_percent,moisture 10,0.07422479457689543,rf16
+moisture 40cm,wind_speed_max2,moisture 10,0.03548886765904332,rf16
+moisture 40cm,wind_speed,moisture 10,0.03443628552824845,rf16
+moisture 40cm,leaf_wet,moisture 10,0.03191811124156339,rf16
+moisture 40cm,radiation,moisture 10,0.02655756645332859,rf16
+moisture 40cm,vpd,moisture 10,0.015960238071909733,rf16
+moisture 40cm,amnt_precp,moisture 10,0.007725279069488613,rf16
+moisture 40cm,moisture_20cm,moisture 20,0.7503608953316316,rf17
+moisture 40cm,temperature_c,moisture 20,0.11531452152349271,rf17
+moisture 40cm,humidity_percent,moisture 20,0.05158724061904502,rf17
+moisture 40cm,wind_speed,moisture 20,0.018622495428859024,rf17
+moisture 40cm,wind_speed_max2,moisture 20,0.018611074948164715,rf17
+moisture 40cm,radiation,moisture 20,0.016484674176464348,rf17
+moisture 40cm,leaf_wet,moisture 20,0.015506203230718678,rf17
+moisture 40cm,vpd,moisture 20,0.010579169067999905,rf17
+moisture 40cm,amnt_precp,moisture 20,0.0029337256736239234,rf17
+moisture 40cm,moisture_30cm,moisture 30,0.9312446329884686,rf18
+moisture 40cm,temperature_c,moisture 30,0.027878619917375468,rf18
+moisture 40cm,humidity_percent,moisture 30,0.012727212441532807,rf18
+moisture 40cm,wind_speed,moisture 30,0.009605239289050854,rf18
+moisture 40cm,radiation,moisture 30,0.005281586321664273,rf18
+moisture 40cm,wind_speed_max2,moisture 30,0.004165842933763332,rf18
+moisture 40cm,leaf_wet,moisture 30,0.004125272482098835,rf18
+moisture 40cm,vpd,moisture 30,0.003947051975832848,rf18
+moisture 40cm,amnt_precp,moisture 30,0.0010245416502129225,rf18
+moisture 40cm,moisture_50cm,moisture 50,0.9007686086781945,rf19
+moisture 40cm,temperature_c,moisture 50,0.033870144389993355,rf19
+moisture 40cm,humidity_percent,moisture 50,0.01589988332515359,rf19
+moisture 40cm,wind_speed,moisture 50,0.013344285196134066,rf19
+moisture 40cm,leaf_wet,moisture 50,0.011010202637368653,rf19
+moisture 40cm,wind_speed_max2,moisture 50,0.00876629145046673,rf19
+moisture 40cm,vpd,moisture 50,0.00787812070869021,rf19
+moisture 40cm,radiation,moisture 50,0.0072901933822940015,rf19
+moisture 40cm,amnt_precp,moisture 50,0.001172270231704791,rf19
+moisture 40cm,moisture_60cm,moisture 60,0.746742924195941,rf20
+moisture 40cm,temperature_c,moisture 60,0.11123697254198937,rf20
+moisture 40cm,humidity_percent,moisture 60,0.04148198646846185,rf20
+moisture 40cm,leaf_wet,moisture 60,0.023760278537915912,rf20
+moisture 40cm,wind_speed,moisture 60,0.020759702998031846,rf20
+moisture 40cm,wind_speed_max2,moisture 60,0.01760877997473667,rf20
+moisture 40cm,vpd,moisture 60,0.017477870743694682,rf20
+moisture 40cm,radiation,moisture 60,0.01714982018815721,rf20
+moisture 40cm,amnt_precp,moisture 60,0.0037816643510714767,rf20
+moisture 50cm,moisture_10cm,moisture 10,0.5931473489823019,rf21
+moisture 50cm,temperature_c,moisture 10,0.17140605960883465,rf21
+moisture 50cm,humidity_percent,moisture 10,0.07495758654407919,rf21
+moisture 50cm,wind_speed_max2,moisture 10,0.04291358865411618,rf21
+moisture 50cm,wind_speed,moisture 10,0.03893276702124348,rf21
+moisture 50cm,radiation,moisture 10,0.03108233633428603,rf21
+moisture 50cm,leaf_wet,moisture 10,0.02262980897071863,rf21
+moisture 50cm,vpd,moisture 10,0.020069332509826013,rf21
+moisture 50cm,amnt_precp,moisture 10,0.004861171374593989,rf21
+moisture 50cm,moisture_20cm,moisture 20,0.7718179197108672,rf22
+moisture 50cm,temperature_c,moisture 20,0.08821235753360453,rf22
+moisture 50cm,humidity_percent,moisture 20,0.048270108569856175,rf22
+moisture 50cm,wind_speed_max2,moisture 20,0.026177909184993946,rf22
+moisture 50cm,wind_speed,moisture 20,0.023781153721536847,rf22
+moisture 50cm,radiation,moisture 20,0.015433469921977893,rf22
+moisture 50cm,leaf_wet,moisture 20,0.01542948623337072,rf22
+moisture 50cm,vpd,moisture 20,0.008364980894755137,rf22
+moisture 50cm,amnt_precp,moisture 20,0.0025126142290375205,rf22
+moisture 50cm,moisture_30cm,moisture 30,0.8677007855159086,rf23
+moisture 50cm,temperature_c,moisture 30,0.056094786077435996,rf23
+moisture 50cm,humidity_percent,moisture 30,0.025303887464531046,rf23
+moisture 50cm,wind_speed,moisture 30,0.014040390390322472,rf23
+moisture 50cm,wind_speed_max2,moisture 30,0.011708874457220735,rf23
+moisture 50cm,radiation,moisture 30,0.01009105163059361,rf23
+moisture 50cm,vpd,moisture 30,0.0072726837124803614,rf23
+moisture 50cm,leaf_wet,moisture 30,0.006297119259258624,rf23
+moisture 50cm,amnt_precp,moisture 30,0.0014904214922484714,rf23
+moisture 50cm,moisture_40cm,moisture 40,0.917822041114386,rf24
+moisture 50cm,temperature_c,moisture 40,0.03180665257315903,rf24
+moisture 50cm,humidity_percent,moisture 40,0.01671734028199395,rf24
+moisture 50cm,wind_speed_max2,moisture 40,0.00785349237067555,rf24
+moisture 50cm,radiation,moisture 40,0.007330770113295426,rf24
+moisture 50cm,wind_speed,moisture 40,0.006366356088835083,rf24
+moisture 50cm,leaf_wet,moisture 40,0.0061170148040162525,rf24
+moisture 50cm,vpd,moisture 40,0.004560157334733405,rf24
+moisture 50cm,amnt_precp,moisture 40,0.0014261753189052091,rf24
+moisture 50cm,moisture_60cm,moisture 60,0.9219298821266273,rf25
+moisture 50cm,temperature_c,moisture 60,0.037097826781115166,rf25
+moisture 50cm,humidity_percent,moisture 60,0.014276321324508404,rf25
+moisture 50cm,wind_speed_max2,moisture 60,0.006065395704999208,rf25
+moisture 50cm,leaf_wet,moisture 60,0.005835026620148824,rf25
+moisture 50cm,wind_speed,moisture 60,0.004565349964231246,rf25
+moisture 50cm,radiation,moisture 60,0.00456088137765251,rf25
+moisture 50cm,vpd,moisture 60,0.004559063569016686,rf25
+moisture 50cm,amnt_precp,moisture 60,0.0011102525317006522,rf25
+moisture 60cm,moisture_10cm,moisture 10,0.5871115328422805,rf26
+moisture 60cm,temperature_c,moisture 10,0.16181039946369877,rf26
+moisture 60cm,humidity_percent,moisture 10,0.09886185821832498,rf26
+moisture 60cm,wind_speed_max2,moisture 10,0.04193149483799487,rf26
+moisture 60cm,radiation,moisture 10,0.036169016288913274,rf26
+moisture 60cm,wind_speed,moisture 10,0.030378872882917952,rf26
+moisture 60cm,vpd,moisture 10,0.023312644656147217,rf26
+moisture 60cm,leaf_wet,moisture 10,0.013820274462389653,rf26
+moisture 60cm,amnt_precp,moisture 10,0.006603906347332875,rf26
+moisture 60cm,moisture_20cm,moisture 20,0.7252439625453171,rf27
+moisture 60cm,temperature_c,moisture 20,0.09990584442321697,rf27
+moisture 60cm,humidity_percent,moisture 20,0.05477925598326316,rf27
+moisture 60cm,wind_speed_max2,moisture 20,0.032133815624173716,rf27
+moisture 60cm,wind_speed,moisture 20,0.026184663340048885,rf27
+moisture 60cm,leaf_wet,moisture 20,0.023975755130825525,rf27
+moisture 60cm,radiation,moisture 20,0.02178059964306964,rf27
+moisture 60cm,vpd,moisture 20,0.01121657017233287,rf27
+moisture 60cm,amnt_precp,moisture 20,0.004779533137752092,rf27
+moisture 60cm,moisture_30cm,moisture 30,0.7302993347025014,rf28
+moisture 60cm,temperature_c,moisture 30,0.10934737603490559,rf28
+moisture 60cm,humidity_percent,moisture 30,0.05712528535404211,rf28
+moisture 60cm,wind_speed,moisture 30,0.02666079965560856,rf28
+moisture 60cm,leaf_wet,moisture 30,0.02086344728036304,rf28
+moisture 60cm,wind_speed_max2,moisture 30,0.020036150228784914,rf28
+moisture 60cm,radiation,moisture 30,0.01848716556185291,rf28
+moisture 60cm,vpd,moisture 30,0.013048688125933306,rf28
+moisture 60cm,amnt_precp,moisture 30,0.00413175305600828,rf28
+moisture 60cm,moisture_40cm,moisture 40,0.7719946070161344,rf29
+moisture 60cm,temperature_c,moisture 40,0.08638260928870467,rf29
+moisture 60cm,humidity_percent,moisture 40,0.05640678185529768,rf29
+moisture 60cm,leaf_wet,moisture 40,0.02097259276804923,rf29
+moisture 60cm,wind_speed_max2,moisture 40,0.01894037587713614,rf29
+moisture 60cm,radiation,moisture 40,0.016183393365733316,rf29
+moisture 60cm,wind_speed,moisture 40,0.016149866505333104,rf29
+moisture 60cm,vpd,moisture 40,0.010293637243830592,rf29
+moisture 60cm,amnt_precp,moisture 40,0.002676136079780896,rf29
+moisture 60cm,moisture_50cm,moisture 50,0.9186375864905841,rf30
+moisture 60cm,temperature_c,moisture 50,0.03921145502745216,rf30
+moisture 60cm,humidity_percent,moisture 50,0.014544113615128558,rf30
+moisture 60cm,wind_speed_max2,moisture 50,0.008141269023853264,rf30
+moisture 60cm,leaf_wet,moisture 50,0.00682300550488355,rf30
+moisture 60cm,radiation,moisture 50,0.004642001562949456,rf30
+moisture 60cm,vpd,moisture 50,0.003563720254672852,rf30
+moisture 60cm,wind_speed,moisture 50,0.0033389218419368908,rf30
+moisture 60cm,amnt_precp,moisture 50,0.0010979266785391653,rf30
